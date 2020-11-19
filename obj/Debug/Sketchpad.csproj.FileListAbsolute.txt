@@ -1,0 +1,20 @@
+C:\Users\虚极\Desktop\几何画板\Sketchpad\bin\Debug\Sketchpad.exe.config
+C:\Users\虚极\Desktop\几何画板\Sketchpad\bin\Debug\Sketchpad.exe
+C:\Users\虚极\Desktop\几何画板\Sketchpad\bin\Debug\Sketchpad.pdb
+C:\Users\虚极\Desktop\几何画板\Sketchpad\obj\Debug\Sketchpad.csprojAssemblyReference.cache
+C:\Users\虚极\Desktop\几何画板\Sketchpad\obj\Debug\Sketchpad.Form1.resources
+C:\Users\虚极\Desktop\几何画板\Sketchpad\obj\Debug\Sketchpad.Properties.Resources.resources
+C:\Users\虚极\Desktop\几何画板\Sketchpad\obj\Debug\Sketchpad.csproj.GenerateResource.cache
+C:\Users\虚极\Desktop\几何画板\Sketchpad\obj\Debug\Sketchpad.csproj.CoreCompileInputs.cache
+C:\Users\虚极\Desktop\几何画板\Sketchpad\obj\Debug\Sketchpad.exe
+C:\Users\虚极\Desktop\几何画板\Sketchpad\obj\Debug\Sketchpad.pdb
+D:\作业\几何画板\Sketchpad - 1.0\bin\Debug\Sketchpad.exe.config
+D:\作业\几何画板\Sketchpad - 1.0\bin\Debug\Sketchpad.exe
+D:\作业\几何画板\Sketchpad - 1.0\bin\Debug\Sketchpad.pdb
+D:\作业\几何画板\Sketchpad - 1.0\obj\Debug\Sketchpad.csprojAssemblyReference.cache
+D:\作业\几何画板\Sketchpad - 1.0\obj\Debug\Sketchpad.Form1.resources
+D:\作业\几何画板\Sketchpad - 1.0\obj\Debug\Sketchpad.Properties.Resources.resources
+D:\作业\几何画板\Sketchpad - 1.0\obj\Debug\Sketchpad.csproj.GenerateResource.cache
+D:\作业\几何画板\Sketchpad - 1.0\obj\Debug\Sketchpad.csproj.CoreCompileInputs.cache
+D:\作业\几何画板\Sketchpad - 1.0\obj\Debug\Sketchpad.exe
+D:\作业\几何画板\Sketchpad - 1.0\obj\Debug\Sketchpad.pdb
